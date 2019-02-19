@@ -2,4 +2,4 @@
 test program...
 
 
-！[thinking](https://en.wikipedia.org/wiki/File:Tesla_circa_1890.jpeg)
+:P
